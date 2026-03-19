@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConsoleCGPACalculator\bin\Debug\net8.0\ConsoleCGPACalculator.exe
+C:\Users\HP\source\repos\ConsoleCGPACalculator\bin\Debug\net8.0\ConsoleCGPACalculator.deps.json
+C:\Users\HP\source\repos\ConsoleCGPACalculator\bin\Debug\net8.0\ConsoleCGPACalculator.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleCGPACalculator\bin\Debug\net8.0\ConsoleCGPACalculator.dll
+C:\Users\HP\source\repos\ConsoleCGPACalculator\bin\Debug\net8.0\ConsoleCGPACalculator.pdb
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.dll
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\refint\ConsoleCGPACalculator.dll
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.pdb
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ConsoleCGPACalculator.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleCGPACalculator\obj\Debug\net8.0\ref\ConsoleCGPACalculator.dll
